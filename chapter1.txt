@@ -1,0 +1,1 @@
+This is a sample story for the testing of the git features in the chapter. All this is done through the Hyper Terminal.
